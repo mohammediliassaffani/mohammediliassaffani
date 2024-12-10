@@ -5,7 +5,7 @@
 ```javascript
 const aboutMe = {
   fullName: "Mohammed Iliass Affani",
-  age: 29,
+  age: 32,
   role: "Full Stack Web Developer",
   expertise: ["React.js", "NestJS", "Docker", "PostgreSQL", "MERN Stack"],
   experience: "2+ years building web and mobile applications",
@@ -43,6 +43,6 @@ With a strong foundation in web and mobile development, I specialize in creating
 💬 Let’s collaborate on meaningful projects or share insights about coding and technology!
 
 ### 📫 Get in Touch:
-- 🌍 [LinkedIn Profile](#)
-- 💻 [Portfolio Website](#)
+- 🌍 https://www.linkedin.com/in/mohammed-iliass-affani
+- 💻 https://mohammediliassaffani.me
 - 📧 med.iliass.affani@gmail.com
